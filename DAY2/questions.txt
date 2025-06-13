@@ -1,0 +1,6 @@
+1. Rotate Matrix
+2. Merge Overlapping Subintervals
+3. Merge two sorted arrays without extra space
+4. Find the duplicate in an array of N+1 integers
+5. Repeat and Missing Number
+6. Inversion of Array (Pre-req: Merge Sort)
