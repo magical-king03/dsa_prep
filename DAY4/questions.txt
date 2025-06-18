@@ -1,0 +1,6 @@
+1. Two Sum
+2. Four Sum
+3. Longest Consecutive Sequence
+4. Largest Subarray with K sum
+5. Count number of subarrays with given xor K
+6. Longest Substring Without Repeating Characters
